@@ -16,3 +16,17 @@ https://www.malwarebytes.org/antimalware/
 
 Avast Free Antivirus-
 https://www.avast.com/windows#comparison
+
+AVG
+http://www.avg.com/us-en/free-antivirus-protection
+
+Thomas:
+
+Security Configuration (Baseline)
+https://technet.microsoft.com/en-us/library/cc163140.aspx
+
+Group Policy Best Practice Diagnostic Analyzer
+https://www.microsoft.com/en-us/download/details.aspx?id=13580
+
+Get Autorun
+https://live.sysinternals.com/
